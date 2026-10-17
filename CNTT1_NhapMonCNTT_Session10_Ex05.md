@@ -1,6 +1,4 @@
-# CNTT1_NhapMonCNTT_Session10_Ex05
-﻿# Bài Tập Về Nhà 
-# Smart-Farm IoT: Tự Động Hóa Vườn Lan
+# Bài 5 : Xây dựng bộ tài liệu kỹ thuật cho dự án Smart Farm
 > **Hệ thống điều hòa vi khí hậu cho vườn phong lan** tích hợp vi xử lý **RikkeiSmartStar**, giúp tự động kiểm soát nhiệt độ - độ ẩm, tối ưu tài nguyên và ngăn ngừa sốc nhiệt.
 ## Cài Đặt Nhanh
 ```bash
